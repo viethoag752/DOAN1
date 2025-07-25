@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoang\\Downloads\\DOAN1NHOM6\\QuanLyBanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98EF31-45A2-4226-BBB5-FFB796B72221}|QuanLyBanSach\\QuanLyBanSach.csproj|c:\\users\\hoang\\downloads\\doan1nhom6\\quanlybansach\\quanlybansach\\cbql.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AD98EF31-45A2-4226-BBB5-FFB796B72221}|QuanLyBanSach\\QuanLyBanSach.csproj|solutionrelative:quanlybansach\\cbql.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CBQL.resx",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\DOAN1NHOM6\\QuanLyBanSach\\QuanLyBanSach\\CBQL.resx",
+              "RelativeDocumentMoniker": "QuanLyBanSach\\CBQL.resx",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\DOAN1NHOM6\\QuanLyBanSach\\QuanLyBanSach\\CBQL.resx",
+              "RelativeToolTip": "QuanLyBanSach\\CBQL.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-23T07:19:11.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
